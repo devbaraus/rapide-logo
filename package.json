@@ -12,6 +12,7 @@
     "format": "oxfmt src/"
   },
   "dependencies": {
+    "nitro": "^3.0.260610-beta",
     "vue": "^3.5.32",
     "vue-router": "^5.0.4"
   },
